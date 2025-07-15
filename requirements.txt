@@ -1,6 +1,0 @@
-streamlit
-langchain
-faiss-cpu
-sentence-transformers
-PyMuPDF
-ollama
